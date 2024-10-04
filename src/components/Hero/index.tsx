@@ -16,10 +16,10 @@ const Hero = () => {
                 data-wow-delay=".2s"
               >
                 <h1 className="mb-6 text-3xl font-bold leading-snug text-white sm:text-4xl sm:leading-snug lg:text-5xl lg:leading-[1.2]">
-                  Powering Sustainability with Evleaf & Lx Group
+                  Powering Sustainability with Evleaf And Lx Group
                 </h1>
                 <p className="mx-auto mb-9 max-w-[600px] text-base font-medium text-white sm:text-lg sm:leading-[1.44]">
-                  Ev leaf is a leading provider of sustainable and innovative power solutions, dedicated to meeting the evolving needs of our clients with a focus on reliability, efficiency, and environmental responsibility.  We offer a one-stop shop for all your power needs, from diesel and gas generators to high & low voltage electrical panels, customized transformers, solar power systems, and more.
+                  Ev leaf is a leading provider of sustainable and innovative power solutions, dedicated to meeting the evolving needs of our clients with a focus on reliability, efficiency, and environmental responsibility.  We offer a one-stop shop for all your power needs, from diesel and gas generators to high and low voltage electrical panels, customized transformers, solar power systems, and more.
                 </p>
                 <ul className="mb-10 flex flex-wrap items-center justify-center gap-5">
                   <li>
@@ -42,7 +42,7 @@ const Hero = () => {
 
                 <div>
                   <p className="mb-4 text-center text-base font-medium text-white/60">
-                    We've served a wide range of clients across various industries.
+                    We have served a wide range of clients across various industries.
                   </p>
                   {/* <div
                     className="wow fadeInUp flex items-center justify-center gap-4 text-center"
