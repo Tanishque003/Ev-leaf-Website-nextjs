@@ -17,7 +17,7 @@ const About = () => {
                 <p className="mb-10 text-base leading-relaxed text-body-color dark:text-dark-6">
                   EvLeaf (OPC) Private Limited & Lx Power Engineering Private Limited, part of the Lx Group of Companies, are at the forefront of innovation in power generation and renewable energy. With over 28 years of experience in the industry, we specialize in manufacturing and supplying diesel and gas gensets, electrical control panels, transformers, and solar power solutions.
                   <br /> <br />
-                  Our commitment to quality and customer satisfaction is evident in our extensive portfolio of products and services, which are trusted by clients across various sectors, including banking, IT, real estate, healthcare, and more. We work in collaboration with globally recognized brands to deliver comprehensive solutions tailored to our clients' needs.
+                  Our commitment to quality and customer satisfaction is evident in our extensive portfolio of products and services, which are trusted by clients across various sectors, including banking, IT, real estate, healthcare, and more. We work in collaboration with globally recognized brands to deliver comprehensive solutions tailored to our clients needs.
                 </p>
 
                 <a
